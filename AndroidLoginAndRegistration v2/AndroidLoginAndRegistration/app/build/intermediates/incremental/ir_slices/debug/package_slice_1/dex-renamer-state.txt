@@ -1,0 +1,4 @@
+#Sun Apr 14 15:46:49 EDT 2019
+base.0=/Users/gmamenis/Downloads/AndroidLoginAndRegistration v2/AndroidLoginAndRegistration/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex

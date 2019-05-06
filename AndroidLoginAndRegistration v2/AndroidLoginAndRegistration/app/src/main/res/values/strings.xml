@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Login and Registration</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_re_password">Password (Re-Enter)</string>
+    <string name="hint_firstname">First Name</string>
+    <string name="hint_lastname">Last Name</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already a User? Login</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="firstname">First Name</string>
+    <string name="app_name2">Student Information</string>
+    <string name="hint_username2">Username</string>
+    <string name="hint_firstname2">First Name</string>
+    <string name="hint_lastname2">Last Name</string>
+    <string name="btn_login2">LOGIN</string>
+    <string name="btn_register2">ADD STUDENT</string>
+    <string name="btn_link_to_register2">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login2">Cancel</string>
+    <string name="welcome2">Student Added to Roster</string>
+    <string name="btn_logout2">ROSTER</string>
+    <string name="firstname2">First Name</string>
+    <string name="hint_password2">Password</string>
+    <string name="title">Login Screen</string>
+    <string name="txt_username">Username:</string>
+    <string name="txt_password">Password:</string>
+    <string name="btn_classA">classA</string>
+    <string name="btn_classB">classB</string>
+    <string name="btn_check">Check Attendance</string>
+    <string name="btn_record">Record Attendance</string>
+    <string name="btn_upload">Upload Photo</string>
+    <string name="btn_student">Add Student</string>
+    <string name="txt_studentName">Student Name:</string>
+    <string name="txt_studentID">Student ID:</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_search">Search</string>
+
+</resources>

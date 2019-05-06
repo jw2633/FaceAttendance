@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FaceID</string>
+    <string name="title">Login Screen</string>
+    <string name="txt_username">Username:</string>
+    <string name="txt_password">Password:</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_classA">classA</string>
+    <string name="btn_classB">classB</string>
+    <string name="btn_check">Check Attendance</string>
+    <string name="btn_record">Record Attendance</string>
+    <string name="btn_upload">Upload Photo</string>
+    <string name="txt_studentName">Student Name:</string>
+    <string name="txt_studentID">Student ID:</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_search">Search</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="title_activity_sample">SampleActivity</string>
+</resources>
