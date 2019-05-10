@@ -1,2 +1,2 @@
 # FaceAttendance
-Capstone FaceID for Attendance Android Application
+Facial recognition application using deep learning
